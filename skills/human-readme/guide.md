@@ -21,6 +21,8 @@ knows where to go next. They work with or without agents. The human-readme workf
 - What you can do: a few common reader tasks, one line and one link each. Common problems: only real, recurring ones.
 - Keep out of the README: full option tables, detailed internal architecture, history, ledgers, agent instructions, unshipped features. Each fact has one source of truth.
 - Sub-pages serve one purpose each (tutorial, how-to, reference, explanation). A metric the project defines itself gets one reference page.
+- Names: one name for one thing across the whole text, preferably an English one (project names, labels, commands); when it is renamed, change every place at once.
+- Bilingual docs: in the English version, what the reader says, types and sees (sentences to say to an agent, commands, labels) is in English, with no Chinese mixed in; the Chinese version may gloss an English name in brackets.
 - Each `##` heading starts with an emoji; content comparing items on the same points goes in a table; a table cell with more than one short sentence becomes points (`• a<br>• b`).
 - Before delivering: walk the default path and report where it was verified, the result and what was not verified; local links and anchors resolve.
 

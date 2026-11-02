@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-11-02: one name per thing; English version fully English
+
+- New rule: one name for one thing across the whole text, preferably English; a rename changes
+  every place at once. Added after a README asked readers in its install steps to create a
+  project under an old name that the other sections had already replaced; the author decided
+  to make it general and to prefer English names.
+- New rule: in the English version, what the reader says, types and sees (sentences to say to
+  an agent, commands, labels) is in English. Added after an English README told readers to say
+  sentences in Chinese; the author decided to make it general.
+
 ## 2026-11-01: the rules live in this workflow
 
 - The rules for READMEs and other docs for people are now part of this workflow:

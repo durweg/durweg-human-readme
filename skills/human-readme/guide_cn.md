@@ -77,11 +77,11 @@ README 每个 `##` 节的标题前加一个提示内容的 emoji（如 💻 系�
 
 ### 标题下面的一行小目录
 
-标题正下方放一行，按顺序链接 README 的每个 `##` 小节，用 ` · ` 隔开，用和标题一样的 emoji，读者一眼就能看到整页有什么，并直接跳到要看的部分。很多读者会找的、README 以外的入口（比如可以安装的工作流目录）放在最后，加粗。只列 `##` 一级，这样目录保持一行。例子：[Durweg 的 README](https://github.com/musetee/durweg/blob/main/README_cn.md)。
+标题正下方放一行，按顺序链接 README 的每个 `##` 小节，用 ` · ` 隔开，用和标题一样的 emoji，读者一眼就能看到整页有什么，并直接跳到要看的部分。很多读者会找的、README 以外的入口（比如可以安装的工作流目录）放在最后，加粗。只列 `##` 一级，这样目录保持一行。例子：[Durweg 的 README](https://github.com/durweg/durweg/blob/main/README_cn.md)。
 
 ### 表格里的说明
 
-表格单元格里的说明超过一个短句时，拆成分点，每点一行，免得表格太宽、难读。GitHub 的表格里放不了 Markdown 列表，写成 `• 第一点<br>• 第二点`。内容不删：拆开，不砍掉。只有一个短句的单元格保持原样。例子：[Durweg 的 README](https://github.com/musetee/durweg/blob/main/README_cn.md) 里的表格。
+表格单元格里的说明超过一个短句时，拆成分点，每点一行，免得表格太宽、难读。GitHub 的表格里放不了 Markdown 列表，写成 `• 第一点<br>• 第二点`。内容不删：拆开，不砍掉。只有一个短句的单元格保持原样。例子：[Durweg 的 README](https://github.com/durweg/durweg/blob/main/README_cn.md) 里的表格。
 
 ## 🔄 随开发过程执行
 

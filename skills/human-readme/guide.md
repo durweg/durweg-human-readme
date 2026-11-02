@@ -108,14 +108,14 @@ Right under the title, one line links to every `##` section of the README, in or
 by ` · ` and using the same emoji as the headings, so a reader sees the whole page at a glance
 and jumps to the part they need. An entry point outside the README that many readers look for
 (e.g. a catalog of workflows to install) goes last, in bold. Only `##` sections: the line stays
-one line. Example: the [Durweg README](https://github.com/musetee/durweg#durweg).
+one line. Example: the [Durweg README](https://github.com/durweg/durweg#durweg).
 
 ### Explanations in tables
 
 A table cell that explains something in more than one short sentence is split into points, one
 per line, so the table stays narrow enough to read. GitHub tables cannot hold Markdown lists, so
 write `• point<br>• point`. Keep the content: split it, do not cut it. A cell of one short clause
-stays as it is. Example: the tables in the [Durweg README](https://github.com/musetee/durweg#durweg).
+stays as it is. Example: the tables in the [Durweg README](https://github.com/durweg/durweg#durweg).
 
 ## 🔄 As the project develops
 

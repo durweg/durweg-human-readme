@@ -36,10 +36,13 @@ Start your agent in the folder of the project whose README you write and tell it
 | 6 | You read it as a newcomer, it is fixed | Each remark, what changed, your words when satisfied | ✅ |
 | 7 | General rules or not | The decision on each new request, and the files changed | ✅ |
 
+Every step follows the rules in [the guide](skills/human-readme/guide.md) ([中文](skills/human-readme/guide_cn.md)): the checklist, the README in four parts, sub-pages, headings and tables, and the checks before delivering.
+
 ## 🙋 I want to …
 
 | I want to | How |
 | :--- | :--- |
+| Read the rules it writes by, or follow them without the workflow | [the guide](skills/human-readme/guide.md) |
 | See how this workflow was made | [case page](https://claude.ai/artifact/LGnCog4wnBmgMAWJg1Xmi4) |
 | Make it my own | Make your own version with Durweg's write-your-method, or edit `workflow.json` and `skills/human-readme/SKILL.md` following the [workflow format](https://github.com/durweg/durweg/blob/main/docs/workflow-format.md) |
 | Stop using it | `durweg library remove human-readme`, then delete `~/Durweg/workflows/human-readme/` |

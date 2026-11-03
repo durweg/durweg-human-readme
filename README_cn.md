@@ -31,10 +31,13 @@
 | 6 | 你以新手眼光读，并修改 | 每条意见、改了什么、你满意的原话 | ✅ |
 | 7 | 决定要不要变成通用规则 | 每条新要求的决定和改动的文件 | ✅ |
 
+每一步都按[写作指南](skills/human-readme/guide_cn.md)（[English](skills/human-readme/guide.md)）来做：检查清单、README 的四个部分、子页面、标题和表格、交付前的检查。
+
 ## 🙋 我想……
 
 | 我想 | 怎么做 |
 | :--- | :--- |
+| 看它按什么规则写，或者不跑工作流、直接照规则写 | [写作指南](skills/human-readme/guide_cn.md) |
 | 看这个工作流是怎么做出来的 | [案例网页](https://claude.ai/artifact/LGnCog4wnBmgMAWJg1Xmi4#zh) |
 | 改成自己的写法 | 用 Durweg 的 write-your-method 做一个自己的版本；或者照 [工作流格式](https://github.com/durweg/durweg/blob/main/docs/workflow-format_cn.md) 改 `workflow.json` 和 `skills/human-readme/SKILL.md` |
 | 不用了 | `durweg library remove human-readme`，再删掉 `~/Durweg/workflows/human-readme/` |
